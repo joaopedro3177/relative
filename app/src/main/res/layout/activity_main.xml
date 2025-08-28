@@ -21,7 +21,29 @@
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:scaleType="centerCrop"
-        android:src="@drawable/truco"/>
+        android:src="@drawable/truco" />
+
+    <ImageView
+        android:id="@+id/imgfutebol"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/truco" />
+
+    <ImageView
+        android:id="@+id/imgbasquete"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/truco" />
+
+    <ImageView
+        android:id="@+id/imgcampo"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/truco" />
+
 
 
 </RelativeLayout>
