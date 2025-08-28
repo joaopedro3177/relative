@@ -38,5 +38,4 @@
         android:scaleType="centerCrop"
         android:src="@drawable/campo" />
 
-
 </RelativeLayout>
