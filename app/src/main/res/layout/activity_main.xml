@@ -15,10 +15,13 @@
         android:src="@drawable/truco" />
 
     <ImageView
-        android:layout_below="@+id/imgTruco"
         android:id="@+id/imgfutebol"
         android:layout_width="150dp"
         android:layout_height="150dp"
+        android:layout_below="@+id/imgTruco"
+        android:layout_marginStart="-3dp"
+        android:layout_marginTop="40dp"
+        android:layout_toEndOf="@+id/imgTruco"
         android:scaleType="centerCrop"
         android:src="@drawable/futebol" />
 
